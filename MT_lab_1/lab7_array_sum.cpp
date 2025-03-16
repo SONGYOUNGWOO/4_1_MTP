@@ -61,13 +61,14 @@ void o2_worker(const int num_threads, const int thread_id)
 struct CACHE_INT {
 	alignas(64)	volatile int sum;
 };
-volatile int sum_array2[32];
 
-CACHE_INT sum_array3[32];
+
+
+CACHE_INT sum_array2[32];
 
 void o3_worker(const int num_threads, const int thread_id)
 {
-	volatile int &asum = sum_array3[thread_id].sum;
+	volatile int &asum = sum_array2[thread_id].sum;
 	asum = 0;
 
 	for (auto i = 0; i < 5000000 / num_threads; ++i) {
