@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab7_array_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab7_array_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab6._local_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab6._local_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab5_atomic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab5_atomic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B113C60-60B6-422C-9E72-AA84171CD9FB}|MT_lab_1.vcxproj|solutionrelative:lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab7_array_sum.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab7_array_sum.cpp",
+              "RelativeDocumentMoniker": "lab7_array_sum.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab7_array_sum.cpp",
+              "RelativeToolTip": "lab7_array_sum.cpp",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAjwP4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T06:39:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab6._local_sum.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab6._local_sum.cpp",
+              "RelativeDocumentMoniker": "lab6._local_sum.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab6._local_sum.cpp",
+              "RelativeToolTip": "lab6._local_sum.cpp",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwKcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T08:14:07.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lab5_atomic.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab5_atomic.cpp",
+              "RelativeDocumentMoniker": "lab5_atomic.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab5_atomic.cpp",
+              "RelativeToolTip": "lab5_atomic.cpp",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAowIAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T08:05:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab4.cpp",
+              "RelativeToolTip": "lab4.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowFUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T07:41:38.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lab3.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab3.cpp",
+              "RelativeDocumentMoniker": "lab3.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab3.cpp",
+              "RelativeToolTip": "lab3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T07:37:39.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab2.cpp",
+              "RelativeDocumentMoniker": "lab2.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab2.cpp",
+              "RelativeToolTip": "lab2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T07:04:02.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab1.cpp",
+              "DocumentMoniker": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab1.cpp",
+              "RelativeDocumentMoniker": "lab1.cpp",
+              "ToolTip": "C:\\Users\\syw\\Desktop\\4\uD559\uB1441\uD559\uAE30\\\uACE0\uAE09\uBA40\uD2F0\uC4F0\uB808\uB4DC\uD504\uB85C\uADF8\uB798\uBC0D\\MT_lab_1\\lab1.cpp",
+              "RelativeToolTip": "lab1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T06:35:47.482Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
